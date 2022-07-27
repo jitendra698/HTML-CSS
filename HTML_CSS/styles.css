@@ -1,0 +1,65 @@
+/* reset css */
+
+body {
+  line-height: 1.5;
+}
+
+
+/* css Tags */
+
+
+span {
+  background-color: lightgreen;
+}
+
+a {
+  outline: 1px solid lightcoral;
+}
+
+h1 {
+  border: 1px solid rgb(7, 234, 192);
+}
+
+/* 
+        div {
+            outline: 2px solid blueviolet;
+        } */
+
+p {
+  border: 2px solid red;
+}
+
+small {
+  border: 2px solid darkorange;
+}
+
+/* css Id's  */
+
+
+
+
+
+
+/* css classes  */
+
+
+.div-1 {
+  border: 2px solid blue;
+}
+
+.div-2 {
+  border: 2px solid black;
+}
+
+.div-3 {
+  border: 2px solid red;
+}
+
+.example-2 {
+  border: 3px solid black;
+  background-color: rgb(237, 197, 103);
+}
+
+.expalme-3 {
+  background-color: rgba(red, rgb(25, 84, 25), blue, 1.5);
+}
